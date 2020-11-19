@@ -1,1 +1,1 @@
-hex to rgba with typescript
+# HEX to RGBA with typescript
